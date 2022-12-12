@@ -1,0 +1,64 @@
+body{
+    /* background-image: url("sources/PicsArt_12-01-01.43.51.jpg"); */
+    /* background-image: url(https://img.freepik.com/free-photo/raindrops-window-with-blue-sky_53876-142999.jpg);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover; */
+  background-color: #263159;
+  margin: 0;
+}
+
+h1,p{
+    text-align: center;
+}
+h4,h5,h6,p{
+    text-align: center;
+    text-decoration: beige;
+    color: aliceblue;
+}
+.container{
+    backdrop-filter: blur(8px);
+}
+.topd1{
+    background-color: rgba(184, 206, 215, 0.474);
+    backdrop-filter: blur(10px);
+    padding-top: 1px;
+    padding-bottom: 20px;
+    border-radius: 30px;
+    margin: 20px;
+}
+.topd2{
+    background-color: rgba(184, 206, 215, 0.474);
+    backdrop-filter: blur(10px);
+    padding-top: 1px;
+    padding-bottom: 20px;
+    border-radius: 30px;
+    margin: 20px;
+}
+.midd{
+    background-color: rgba(184, 206, 215, 0.474);
+    backdrop-filter: blur(10px);
+    padding-top: 10px;
+    padding-bottom: 20px;
+    border-radius: 15px;
+    margin: 20px;
+    /* min-height: 500px; */
+}
+.botd{
+    background-color: rgba(19, 20, 20, 0.474);
+    backdrop-filter: blur(10px);
+    padding: 20px;
+    border-radius: 5px;
+    margin: 20px;
+    text-align: center;
+}
+.imgs{
+    width: 200px;
+    height: 150px;
+}
+td{
+    padding-left: 20px;
+}
+img,video{
+    border-radius: 10px;
+}
